@@ -2,7 +2,7 @@
 //  TrafficLightSwiftUIApp.swift
 //  TrafficLightSwiftUI
 //
-//  Created by Цырендылыкова Эржена on 10.12.2022.
+//  Created by Сампилов Ильдар on 10.12.2022.
 //
 
 import SwiftUI
